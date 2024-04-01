@@ -2,9 +2,8 @@
 🔭 Skilled in: Web Application, Problem Solving. <br>💻 Familiar with: C,C++, Bash, JS, React.<br>🤝 Experience: Problem solving : +2 years . <br>🌱 Education Status: Graduate in CS ( Computer Science).<br>💬 Interested in Exploring new technologies. <br>
 
 
+<div align="center" style="width: 100%;">
 
-<div align="center" style="width-full" >
-   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=inamshifath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inamshifath&theme=dark&hide_border=false)<br/>
@@ -13,6 +12,7 @@
 [![](https://visitcount.itsvg.in/api?id=inamshifath&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
 
 
 
